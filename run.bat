@@ -1,0 +1,1 @@
+java -classpath out\production\outddos project.Main
